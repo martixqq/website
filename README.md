@@ -6,7 +6,6 @@
   <meta name="Keywords" content="Słowa kluczowe określające zawartość strony" />
   <meta name="Description" content="Opis strony" />
   <link rel="stylesheet" href="style.css" type="text/css" />
-  <title>Strona</title>
 </head>
 <body>
 
